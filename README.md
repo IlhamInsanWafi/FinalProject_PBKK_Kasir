@@ -1,5 +1,4 @@
-
-# Kasir App
+# Final Project PBKK
 Aplikasi Kasir Penjualan Menggunakan Codeigniter
 
 Nama  : Ilham Insan Wafi
