@@ -1,9 +1,11 @@
 # Final Project PBKK
 Aplikasi Kasir Penjualan Menggunakan Codeigniter
 
-Nama  : Ilham Insan Wafi
-NRP   : 5025211255
-Kelas : PBKK (A)
+## Kelompok 6 PBKK (A)
+| Nama | NRP |Github |
+|---------------------------|------------|--------|
+|Ilham Insan Wafi | 5025211255 | https://github.com/IlhamInsanWafi |
+|Syomeron Ansell W | 5025211250 | https://github.com/Ansell10 |
 
 ## Fitur
 
